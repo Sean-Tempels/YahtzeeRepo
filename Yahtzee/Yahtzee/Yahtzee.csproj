@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheatView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CheatView.Designer.cs">
+      <DependentUpon>CheatView.cs</DependentUpon>
+    </Compile>
     <Compile Include="ScoreController.cs" />
     <Compile Include="ScoreModel.cs" />
     <Compile Include="TeerlingController.cs" />

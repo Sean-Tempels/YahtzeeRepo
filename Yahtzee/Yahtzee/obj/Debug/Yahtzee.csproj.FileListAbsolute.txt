@@ -33,3 +33,14 @@ C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yaht
 C:\Users\Games\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
 C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
 C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
